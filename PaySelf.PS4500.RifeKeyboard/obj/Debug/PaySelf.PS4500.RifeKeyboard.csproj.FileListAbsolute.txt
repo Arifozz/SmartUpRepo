@@ -1,0 +1,32 @@
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard_MarkupCompile.cache
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard_MarkupCompile.lref
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\bin\Debug\PaySelf.PS4500.RifeKeyboard.dll
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\bin\Debug\PaySelf.PS4500.RifeKeyboard.pdb
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\bin\Debug\WindowsInput.dll
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\obj\Debug\Themes\Generic.baml
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.g.resources
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.Properties.Resources.resources
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf..76B6E913.Up2Date
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.dll
+C:\Users\Ali\Desktop\Smartup Projeler\WPF_PS4500\PaySelf.PS4500\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.pdb
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\bin\Debug\PaySelf.PS4500.RifeKeyboard.dll
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\bin\Debug\PaySelf.PS4500.RifeKeyboard.pdb
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.csproj.AssemblyReference.cache
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard_MarkupCompile.cache
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard_MarkupCompile.lref
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\Themes\Generic.baml
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.g.resources
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.Properties.Resources.resources
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.csproj.GenerateResource.cache
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.csproj.CoreCompileInputs.cache
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf..76B6E913.Up2Date
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.dll
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\PaySelf.PS4500.RifeKeyboard.pdb
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\Themes\CenterHihlight_KeyStyle.baml
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\Themes\Highlight_KeyStyle.baml
+C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\obj\Debug\Themes\Rounded_KeyStyle.baml
