@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\PaySelf.PS4500.RifeKeyboard\PaySelf.PS4500.RifeKeyboard.csproj" />
+    <ProjectReference Include="C:\SmartUpProjects\PaySelf.PS4500.RifeKeyboard\PaySelf.PS4500.RifeKeyboard.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WindowsInput">
+      <HintPath>bin\Debug\net8.0-windows\WindowsInput.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

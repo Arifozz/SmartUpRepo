@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SmartUpProjects\\WPFKeyboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}|..\\PaySelf.PS4500.RifeKeyboard\\PaySelf.PS4500.RifeKeyboard.csproj|c:\\smartupprojects\\payself.ps4500.rifekeyboard\\keyboardstyletheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}|..\\PaySelf.PS4500.RifeKeyboard\\PaySelf.PS4500.RifeKeyboard.csproj|c:\\smartupprojects\\payself.ps4500.rifekeyboard\\keyboardfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}|..\\PaySelf.PS4500.RifeKeyboard\\PaySelf.PS4500.RifeKeyboard.csproj|c:\\smartupprojects\\payself.ps4500.rifekeyboard\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}|..\\PaySelf.PS4500.RifeKeyboard\\PaySelf.PS4500.RifeKeyboard.csproj|c:\\smartupprojects\\payself.ps4500.rifekeyboard\\keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC29CA2-B977-4BB3-B57E-04B443D57127}|WPFKeyboard\\WPFKeyboard.csproj|c:\\smartupprojects\\wpfkeyboard\\wpfkeyboard\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC29CA2-B977-4BB3-B57E-04B443D57127}|WPFKeyboard\\WPFKeyboard.csproj|solutionrelative:wpfkeyboard\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}|..\\PaySelf.PS4500.RifeKeyboard\\PaySelf.PS4500.RifeKeyboard.csproj|c:\\smartupprojects\\payself.ps4500.rifekeyboard\\keyboardkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC29CA2-B977-4BB3-B57E-04B443D57127}|WPFKeyboard\\WPFKeyboard.csproj|c:\\smartupprojects\\wpfkeyboard\\wpfkeyboard\\keyboards.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BEC29CA2-B977-4BB3-B57E-04B443D57127}|WPFKeyboard\\WPFKeyboard.csproj|solutionrelative:wpfkeyboard\\keyboards.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC29CA2-B977-4BB3-B57E-04B443D57127}|WPFKeyboard\\WPFKeyboard.csproj|c:\\smartupprojects\\wpfkeyboard\\wpfkeyboard\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC29CA2-B977-4BB3-B57E-04B443D57127}|WPFKeyboard\\WPFKeyboard.csproj|solutionrelative:wpfkeyboard\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}|..\\PaySelf.PS4500.RifeKeyboard\\PaySelf.PS4500.RifeKeyboard.csproj|c:\\smartupprojects\\payself.ps4500.rifekeyboard\\virtualkeykeyboardkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}|..\\PaySelf.PS4500.RifeKeyboard\\PaySelf.PS4500.RifeKeyboard.csproj|c:\\smartupprojects\\payself.ps4500.rifekeyboard\\unicodekeyboardkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}|..\\PaySelf.PS4500.RifeKeyboard\\PaySelf.PS4500.RifeKeyboard.csproj|c:\\smartupprojects\\payself.ps4500.rifekeyboard\\shiftkeyboardkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}|..\\PaySelf.PS4500.RifeKeyboard\\PaySelf.PS4500.RifeKeyboard.csproj|c:\\smartupprojects\\payself.ps4500.rifekeyboard\\modiferchangedroutedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}|..\\PaySelf.PS4500.RifeKeyboard\\PaySelf.PS4500.RifeKeyboard.csproj|c:\\smartupprojects\\payself.ps4500.rifekeyboard\\themes\\highlight_keystyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}|..\\PaySelf.PS4500.RifeKeyboard\\PaySelf.PS4500.RifeKeyboard.csproj|c:\\smartupprojects\\payself.ps4500.rifekeyboard\\themes\\rounded_keystyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Keyboards.xaml",
+              "DocumentMoniker": "C:\\SmartUpProjects\\WPFKeyboard\\WPFKeyboard\\Keyboards.xaml",
+              "RelativeDocumentMoniker": "WPFKeyboard\\Keyboards.xaml",
+              "ToolTip": "C:\\SmartUpProjects\\WPFKeyboard\\WPFKeyboard\\Keyboards.xaml",
+              "RelativeToolTip": "WPFKeyboard\\Keyboards.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-25T14:09:34.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\SmartUpProjects\\WPFKeyboard\\WPFKeyboard\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WPFKeyboard\\AssemblyInfo.cs",
+              "ToolTip": "C:\\SmartUpProjects\\WPFKeyboard\\WPFKeyboard\\AssemblyInfo.cs",
+              "RelativeToolTip": "WPFKeyboard\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:09:32.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyboardFunction.cs",
+              "DocumentMoniker": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\KeyboardFunction.cs",
+              "RelativeDocumentMoniker": "..\\PaySelf.PS4500.RifeKeyboard\\KeyboardFunction.cs",
+              "ToolTip": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\KeyboardFunction.cs",
+              "RelativeToolTip": "..\\PaySelf.PS4500.RifeKeyboard\\KeyboardFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:49:55.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Keyboard.cs",
+              "DocumentMoniker": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\Keyboard.cs",
+              "RelativeDocumentMoniker": "..\\PaySelf.PS4500.RifeKeyboard\\Keyboard.cs",
+              "ToolTip": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\Keyboard.cs",
+              "RelativeToolTip": "..\\PaySelf.PS4500.RifeKeyboard\\Keyboard.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv1oAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:39:49.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KeyboardKey.cs",
+              "DocumentMoniker": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\KeyboardKey.cs",
+              "RelativeDocumentMoniker": "..\\PaySelf.PS4500.RifeKeyboard\\KeyboardKey.cs",
+              "ToolTip": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\KeyboardKey.cs",
+              "RelativeToolTip": "..\\PaySelf.PS4500.RifeKeyboard\\KeyboardKey.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T14:35:47.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "..\\PaySelf.PS4500.RifeKeyboard\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\Themes\\Generic.xaml",
+              "RelativeToolTip": "..\\PaySelf.PS4500.RifeKeyboard\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-24T14:35:49.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\SmartUpProjects\\WPFKeyboard\\WPFKeyboard\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFKeyboard\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\SmartUpProjects\\WPFKeyboard\\WPFKeyboard\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFKeyboard\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:47:52.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyboardStyleTheme.cs",
+              "DocumentMoniker": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\KeyboardStyleTheme.cs",
+              "RelativeDocumentMoniker": "..\\PaySelf.PS4500.RifeKeyboard\\KeyboardStyleTheme.cs",
+              "ToolTip": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\KeyboardStyleTheme.cs",
+              "RelativeToolTip": "..\\PaySelf.PS4500.RifeKeyboard\\KeyboardStyleTheme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:16:14.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VirtualKeyKeyboardKey.cs",
+              "DocumentMoniker": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\VirtualKeyKeyboardKey.cs",
+              "RelativeDocumentMoniker": "..\\PaySelf.PS4500.RifeKeyboard\\VirtualKeyKeyboardKey.cs",
+              "ToolTip": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\VirtualKeyKeyboardKey.cs",
+              "RelativeToolTip": "..\\PaySelf.PS4500.RifeKeyboard\\VirtualKeyKeyboardKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:09:26.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShiftKeyboardKey.cs",
+              "DocumentMoniker": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\ShiftKeyboardKey.cs",
+              "RelativeDocumentMoniker": "..\\PaySelf.PS4500.RifeKeyboard\\ShiftKeyboardKey.cs",
+              "ToolTip": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\ShiftKeyboardKey.cs",
+              "RelativeToolTip": "..\\PaySelf.PS4500.RifeKeyboard\\ShiftKeyboardKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:49:52.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModiferChangedRoutedEventArgs.cs",
+              "DocumentMoniker": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\ModiferChangedRoutedEventArgs.cs",
+              "RelativeDocumentMoniker": "..\\PaySelf.PS4500.RifeKeyboard\\ModiferChangedRoutedEventArgs.cs",
+              "ToolTip": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\ModiferChangedRoutedEventArgs.cs",
+              "RelativeToolTip": "..\\PaySelf.PS4500.RifeKeyboard\\ModiferChangedRoutedEventArgs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:49:51.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnicodeKeyboardKey.cs",
+              "DocumentMoniker": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\UnicodeKeyboardKey.cs",
+              "RelativeDocumentMoniker": "..\\PaySelf.PS4500.RifeKeyboard\\UnicodeKeyboardKey.cs",
+              "ToolTip": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\UnicodeKeyboardKey.cs",
+              "RelativeToolTip": "..\\PaySelf.PS4500.RifeKeyboard\\UnicodeKeyboardKey.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T11:49:53.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Highlight_KeyStyle.xaml",
+              "DocumentMoniker": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\Themes\\Highlight_KeyStyle.xaml",
+              "RelativeDocumentMoniker": "..\\PaySelf.PS4500.RifeKeyboard\\Themes\\Highlight_KeyStyle.xaml",
+              "ToolTip": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\Themes\\Highlight_KeyStyle.xaml",
+              "RelativeToolTip": "..\\PaySelf.PS4500.RifeKeyboard\\Themes\\Highlight_KeyStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-25T12:33:27.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rounded_KeyStyle.xaml",
+              "DocumentMoniker": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\Themes\\Rounded_KeyStyle.xaml",
+              "RelativeDocumentMoniker": "..\\PaySelf.PS4500.RifeKeyboard\\Themes\\Rounded_KeyStyle.xaml",
+              "ToolTip": "C:\\SmartUpProjects\\PaySelf.PS4500.RifeKeyboard\\Themes\\Rounded_KeyStyle.xaml",
+              "RelativeToolTip": "..\\PaySelf.PS4500.RifeKeyboard\\Themes\\Rounded_KeyStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-25T12:28:57.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

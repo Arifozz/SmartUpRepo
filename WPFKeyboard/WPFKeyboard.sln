@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFKeyboard", "WPFKeyboard\WPFKeyboard.csproj", "{BEC29CA2-B977-4BB3-B57E-04B443D57127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySelf.PS4500.RifeKeyboard", "..\PaySelf.PS4500.RifeKeyboard\PaySelf.PS4500.RifeKeyboard.csproj", "{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC29CA2-B977-4BB3-B57E-04B443D57127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC29CA2-B977-4BB3-B57E-04B443D57127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC29CA2-B977-4BB3-B57E-04B443D57127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC29CA2-B977-4BB3-B57E-04B443D57127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC4CF3A-A974-4E68-B8A3-2B3CD2A42484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B28B5976-42CA-4427-B7B3-5BF56DF4ACB7}
+	EndGlobalSection
+EndGlobal

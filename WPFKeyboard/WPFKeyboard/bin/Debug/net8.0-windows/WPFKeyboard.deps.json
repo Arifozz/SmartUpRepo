@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WPFKeyboard/1.0.0": {
+        "dependencies": {
+          "PaySelf.PS4500.RifeKeyboard": "1.0.0",
+          "WindowsInput": "1.0.4.0"
+        },
+        "runtime": {
+          "WPFKeyboard.dll": {}
+        }
+      },
+      "PaySelf.PS4500.RifeKeyboard/1.0.0": {
+        "runtime": {
+          "PaySelf.PS4500.RifeKeyboard.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WindowsInput/1.0.4.0": {
+        "runtime": {
+          "WindowsInput.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFKeyboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaySelf.PS4500.RifeKeyboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WindowsInput/1.0.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
